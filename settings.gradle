@@ -1,0 +1,5 @@
+rootProject.name = 'phonebook'
+
+include 'app'
+
+

@@ -1,0 +1,7 @@
+apply plugin:'application'
+
+mainClassName = 'com.biggerdeep.phonebook.App'
+
+run {
+    args "server", "../config.yml"
+}

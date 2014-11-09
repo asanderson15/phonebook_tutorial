@@ -1,0 +1,3 @@
+message: This is a message defined in the configuration file.
+messageRepetitions: 10
+# additionalMessage: Not the default.
